@@ -1,3 +1,4 @@
+# command to os
 os: windows
   language: sh
   python: "3.x"
